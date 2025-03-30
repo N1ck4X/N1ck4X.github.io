@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #0078e7;
-  --yun-bg-image: url("https://hexopicture.cn-nb1.rains3.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-19%20210112.png");
+  --yun-bg-image: url("/images/background.jpg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
