@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #0078e7;
-  --yun-bg-image: url("https://hexopicture.cn-nb1.rains3.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-19%20210112.png");
+  --yun-bg-image: url("https://hexopicture.cn-nb1.rains3.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/72CD71E72409F8882C4ADC788D412E66_1743511329218.jpeg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -294,15 +294,15 @@ body::before {
   background-repeat: no-repeat;
   animation-name: bgFadeIn;
   animation-duration: 2s;
-  opacity: 0.6;
-  filter: blur(0.2px);
+  opacity: 1;
+  filter: blur(0px);
 }
 @-moz-keyframes bgFadeIn {
   from {
     opacity: 0;
   }
   to {
-    opacity: 0.6;
+    opacity: 1;
   }
 }
 @-webkit-keyframes bgFadeIn {
@@ -310,7 +310,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.6;
+    opacity: 1;
   }
 }
 @-o-keyframes bgFadeIn {
@@ -318,7 +318,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.6;
+    opacity: 1;
   }
 }
 @keyframes bgFadeIn {
@@ -326,7 +326,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.6;
+    opacity: 1;
   }
 }
 :root {
